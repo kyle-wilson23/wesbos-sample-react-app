@@ -1,4 +1,7 @@
+catch-of-the-day/node_modules/
+catch-of-the-day/.vscode/
 node_modules/
 *.zip
 .DS_Store
 .idea
+npm-debug
